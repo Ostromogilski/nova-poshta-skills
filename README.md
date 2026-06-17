@@ -84,24 +84,6 @@ curl -X POST -H 'Content-Type: application/json' \
 - Error handling
   - Response envelope checks and Nova Poshta error code references
 
-## Documentation notes
-
-Primary official documentation:
-
-- https://developers.novaposhta.ua/documentation
-- https://developers.novaposhta.ua/view/
-- https://developers.novaposhta.ua/listerrorscodes?quality=10
-
-Fallback mirror documentation, only when the official portal is blocked:
-
-- https://alexpseha.gitbooks.io/api_test_one_chapter/content/
-
-Notes:
-
-- Official URLs are preferred as the source of truth
-- Some legacy mirror pages contain malformed examples or inconsistent naming
-- This repository marks partially verified behavior explicitly instead of inventing unsupported API behavior
-
 ## Usage guidance
 
 - Use `SKILL.md` for the high-level workflow and operating rules
