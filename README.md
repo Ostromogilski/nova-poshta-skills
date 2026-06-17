@@ -30,13 +30,7 @@ nova-poshta-skills/
 
 ## Installation
 
-Local installation example:
-
-```bash
-npx skills add ./nova-poshta-skill
-```
-
-GitHub installation examples:
+Installation examples:
 
 ```bash
 npx skills add https://github.com/<owner>/<repo>
