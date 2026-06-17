@@ -17,7 +17,6 @@ This repository contains a Windsurf/Cascade skill for working with the Nova Posh
 nova-poshta-skills/
 ├── SKILL.md
 ├── README.md
-├── .gitignore
 └── references/
     ├── address-directory.md
     ├── address-operations.md
