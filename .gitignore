@@ -1,0 +1,12 @@
+.env
+.DS_Store
+node_modules/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.tmp/
+.temp/
+tmp/
+temp/
